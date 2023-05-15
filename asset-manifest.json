@@ -1,27 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5f0c190.css",
-    "main.js": "/static/js/main.20a8b5ae.js",
+    "main.css": "/static/css/main.700348e1.css",
+    "main.js": "/static/js/main.ab657146.js",
     "static/media/customIllustration-3.jpg": "/static/media/customIllustration-3.1c2f4d9e5175052f4832.jpg",
     "static/media/customIllustration-2.jpg": "/static/media/customIllustration-2.77fcd6e733b55395f123.jpg",
-    "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.67947b685df308cf251a.jpg",
+    "static/media/carucature-3.jpg": "/static/media/carucature-3.5636e54370bc6d3a77c2.jpg",
+    "static/media/portrait-4.jpg": "/static/media/portrait-4.d2e6cb88c2216f067feb.jpg",
+    "static/media/carucature-2.jpg": "/static/media/carucature-2.a6da769af18be75335ad.jpg",
+    "static/media/character-2.jpg": "/static/media/character-2.de4abee6a134012d6541.jpg",
+    "static/media/carucature-1.jpg": "/static/media/carucature-1.087f838b33666c182cf2.jpg",
     "static/media/customIllustration-1.jpg": "/static/media/customIllustration-1.e425bf0c5e75b64c271e.jpg",
+    "static/media/children-2.jpg": "/static/media/children-2.90ffbfdc9630c7b25961.jpg",
+    "static/media/mural-1.jpg": "/static/media/mural-1.0aa67c6011e6a8eeb227.jpg",
+    "static/media/portrait-1.jpg": "/static/media/portrait-1.30200a1839523fd05ddb.jpg",
+    "static/media/children-1.jpg": "/static/media/children-1.b377f68b39ceef4827ae.jpg",
+    "static/media/story-1.jpg": "/static/media/story-1.b6f6dcb9761b364f0808.jpg",
     "static/media/features-03.jpg": "/static/media/features-03.81901f90896263144a2f.jpg",
     "static/media/service2-3.jpg": "/static/media/service2-3.81901f90896263144a2f.jpg",
     "static/media/service3-3.jpg": "/static/media/service3-3.81901f90896263144a2f.jpg",
+    "static/media/character-1.jpg": "/static/media/character-1.a9e40e3ce084264cd16e.jpg",
+    "static/media/mural-2.jpg": "/static/media/mural-2.bb2f17f54e31de5f23fa.jpg",
+    "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.58726e56b8e5123f510f.jpg",
+    "static/media/story-2.jpg": "/static/media/story-2.82980605d8d90f0edbae.jpg",
+    "static/media/portrait-2.jpg": "/static/media/portrait-2.519b4fd32914561e3eb9.jpg",
+    "static/media/logo.png": "/static/media/logo.c0cce6225b5178748f57.png",
     "static/media/features-01.jpg": "/static/media/features-01.3ba265de25b83cac7729.jpg",
     "static/media/service2-1.jpg": "/static/media/service2-1.3ba265de25b83cac7729.jpg",
     "static/media/service3-1.jpg": "/static/media/service3-1.3ba265de25b83cac7729.jpg",
-    "static/media/logo.jpeg": "/static/media/logo.268b118b8c899d400654.jpeg",
+    "static/media/portrait-3.jpg": "/static/media/portrait-3.cc74e2dc7e02595de206.jpg",
     "static/media/features-02.jpg": "/static/media/features-02.575384e0769be184cbcd.jpg",
     "static/media/service2-2.jpg": "/static/media/service2-2.575384e0769be184cbcd.jpg",
     "static/media/service3-2.jpg": "/static/media/service3-2.575384e0769be184cbcd.jpg",
     "index.html": "/index.html",
-    "main.c5f0c190.css.map": "/static/css/main.c5f0c190.css.map",
-    "main.20a8b5ae.js.map": "/static/js/main.20a8b5ae.js.map"
+    "main.700348e1.css.map": "/static/css/main.700348e1.css.map",
+    "main.ab657146.js.map": "/static/js/main.ab657146.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f0c190.css",
-    "static/js/main.20a8b5ae.js"
+    "static/css/main.700348e1.css",
+    "static/js/main.ab657146.js"
   ]
 }
