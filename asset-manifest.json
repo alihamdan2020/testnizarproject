@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.700348e1.css",
-    "main.js": "/static/js/main.ab657146.js",
-    "static/media/customIllustration-3.jpg": "/static/media/customIllustration-3.1c2f4d9e5175052f4832.jpg",
+    "main.css": "/static/css/main.7d602ae6.css",
+    "main.js": "/static/js/main.956409f7.js",
     "static/media/customIllustration-2.jpg": "/static/media/customIllustration-2.77fcd6e733b55395f123.jpg",
     "static/media/carucature-3.jpg": "/static/media/carucature-3.5636e54370bc6d3a77c2.jpg",
     "static/media/portrait-4.jpg": "/static/media/portrait-4.d2e6cb88c2216f067feb.jpg",
+    "static/media/children.jpg": "/static/media/children.e4222c819329b05a5f51.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.08d98afe14c9177da875.jpg",
     "static/media/carucature-2.jpg": "/static/media/carucature-2.a6da769af18be75335ad.jpg",
+    "static/media/story.jpg": "/static/media/story.54013edb884955e0818a.jpg",
+    "static/media/character.jpg": "/static/media/character.09b5842d50d5a1951717.jpg",
+    "static/media/mural.jpg": "/static/media/mural.8596fc634e964c356808.jpg",
+    "static/media/carucature.jpg": "/static/media/carucature.d83c66823a9b5cbb508d.jpg",
     "static/media/character-2.jpg": "/static/media/character-2.de4abee6a134012d6541.jpg",
     "static/media/carucature-1.jpg": "/static/media/carucature-1.087f838b33666c182cf2.jpg",
-    "static/media/customIllustration-1.jpg": "/static/media/customIllustration-1.e425bf0c5e75b64c271e.jpg",
+    "static/media/customIllustration-3.jpg": "/static/media/customIllustration-3.a796b5ff6fdbd0bda401.jpg",
+    "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.5d295770ee332d191a43.jpg",
     "static/media/children-2.jpg": "/static/media/children-2.90ffbfdc9630c7b25961.jpg",
+    "static/media/customIllustration-1.jpg": "/static/media/customIllustration-1.91d9dc7a3a91e86356f3.jpg",
     "static/media/mural-1.jpg": "/static/media/mural-1.0aa67c6011e6a8eeb227.jpg",
     "static/media/portrait-1.jpg": "/static/media/portrait-1.30200a1839523fd05ddb.jpg",
     "static/media/children-1.jpg": "/static/media/children-1.b377f68b39ceef4827ae.jpg",
@@ -20,7 +27,6 @@
     "static/media/service3-3.jpg": "/static/media/service3-3.81901f90896263144a2f.jpg",
     "static/media/character-1.jpg": "/static/media/character-1.a9e40e3ce084264cd16e.jpg",
     "static/media/mural-2.jpg": "/static/media/mural-2.bb2f17f54e31de5f23fa.jpg",
-    "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.58726e56b8e5123f510f.jpg",
     "static/media/story-2.jpg": "/static/media/story-2.82980605d8d90f0edbae.jpg",
     "static/media/portrait-2.jpg": "/static/media/portrait-2.519b4fd32914561e3eb9.jpg",
     "static/media/logo.png": "/static/media/logo.c0cce6225b5178748f57.png",
@@ -32,11 +38,11 @@
     "static/media/service2-2.jpg": "/static/media/service2-2.575384e0769be184cbcd.jpg",
     "static/media/service3-2.jpg": "/static/media/service3-2.575384e0769be184cbcd.jpg",
     "index.html": "/index.html",
-    "main.700348e1.css.map": "/static/css/main.700348e1.css.map",
-    "main.ab657146.js.map": "/static/js/main.ab657146.js.map"
+    "main.7d602ae6.css.map": "/static/css/main.7d602ae6.css.map",
+    "main.956409f7.js.map": "/static/js/main.956409f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.700348e1.css",
-    "static/js/main.ab657146.js"
+    "static/css/main.7d602ae6.css",
+    "static/js/main.956409f7.js"
   ]
 }
