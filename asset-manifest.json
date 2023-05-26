@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98d2acd7.css",
-    "main.js": "/static/js/main.2cba7a9d.js",
+    "main.css": "/static/css/main.29fa9ccc.css",
+    "main.js": "/static/js/main.0b3fc7f1.js",
     "static/media/customIllustration-2.jpg": "/static/media/customIllustration-2.77fcd6e733b55395f123.jpg",
     "static/media/carucature-3.jpg": "/static/media/carucature-3.5636e54370bc6d3a77c2.jpg",
     "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.e9bd6928badc194b1319.jpg",
@@ -16,6 +16,7 @@
     "static/media/character-2.jpg": "/static/media/character-2.de4abee6a134012d6541.jpg",
     "static/media/carucature-1.jpg": "/static/media/carucature-1.087f838b33666c182cf2.jpg",
     "static/media/customIllustration-3.jpg": "/static/media/customIllustration-3.a796b5ff6fdbd0bda401.jpg",
+    "static/media/portfolio-02.jpg": "/static/media/portfolio-02.c2fe1a3a55b828c3d019.jpg",
     "static/media/children-2.jpg": "/static/media/children-2.90ffbfdc9630c7b25961.jpg",
     "static/media/customIllustration-1.jpg": "/static/media/customIllustration-1.91d9dc7a3a91e86356f3.jpg",
     "static/media/mural-1.jpg": "/static/media/mural-1.0aa67c6011e6a8eeb227.jpg",
@@ -26,23 +27,28 @@
     "static/media/service2-3.jpg": "/static/media/service2-3.81901f90896263144a2f.jpg",
     "static/media/service3-3.jpg": "/static/media/service3-3.81901f90896263144a2f.jpg",
     "static/media/character-1.jpg": "/static/media/character-1.a9e40e3ce084264cd16e.jpg",
+    "static/media/portfolio-04.png": "/static/media/portfolio-04.d297ee93a8e418e01eba.png",
     "static/media/mural-2.jpg": "/static/media/mural-2.bb2f17f54e31de5f23fa.jpg",
     "static/media/story-2.jpg": "/static/media/story-2.82980605d8d90f0edbae.jpg",
+    "static/media/portfolio-05.jpg": "/static/media/portfolio-05.441d2724508818362ba6.jpg",
     "static/media/portrait-2.jpg": "/static/media/portrait-2.519b4fd32914561e3eb9.jpg",
     "static/media/logo.png": "/static/media/logo.c0cce6225b5178748f57.png",
     "static/media/features-01.jpg": "/static/media/features-01.3ba265de25b83cac7729.jpg",
     "static/media/service2-1.jpg": "/static/media/service2-1.3ba265de25b83cac7729.jpg",
     "static/media/service3-1.jpg": "/static/media/service3-1.3ba265de25b83cac7729.jpg",
+    "static/media/portfolio-03.png": "/static/media/portfolio-03.77bfa89ccac1791b9678.png",
+    "static/media/portfolio-06.png": "/static/media/portfolio-06.773d6af27c50bea44d8d.png",
     "static/media/portrait-3.jpg": "/static/media/portrait-3.cc74e2dc7e02595de206.jpg",
+    "static/media/portfolio-01.png": "/static/media/portfolio-01.98fee987cb7cb5221b1b.png",
     "static/media/features-02.jpg": "/static/media/features-02.575384e0769be184cbcd.jpg",
     "static/media/service2-2.jpg": "/static/media/service2-2.575384e0769be184cbcd.jpg",
     "static/media/service3-2.jpg": "/static/media/service3-2.575384e0769be184cbcd.jpg",
     "index.html": "/index.html",
-    "main.98d2acd7.css.map": "/static/css/main.98d2acd7.css.map",
-    "main.2cba7a9d.js.map": "/static/js/main.2cba7a9d.js.map"
+    "main.29fa9ccc.css.map": "/static/css/main.29fa9ccc.css.map",
+    "main.0b3fc7f1.js.map": "/static/js/main.0b3fc7f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.98d2acd7.css",
-    "static/js/main.2cba7a9d.js"
+    "static/css/main.29fa9ccc.css",
+    "static/js/main.0b3fc7f1.js"
   ]
 }
