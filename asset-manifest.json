@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29fa9ccc.css",
-    "main.js": "/static/js/main.0b3fc7f1.js",
+    "main.css": "/static/css/main.a271d5b3.css",
+    "main.js": "/static/js/main.40f0d9a6.js",
     "static/media/customIllustration-2.jpg": "/static/media/customIllustration-2.77fcd6e733b55395f123.jpg",
     "static/media/carucature-3.jpg": "/static/media/carucature-3.5636e54370bc6d3a77c2.jpg",
     "static/media/customIllustration-main.jpg": "/static/media/customIllustration-main.e9bd6928badc194b1319.jpg",
@@ -12,6 +12,7 @@
     "static/media/story.jpg": "/static/media/story.54013edb884955e0818a.jpg",
     "static/media/character.jpg": "/static/media/character.09b5842d50d5a1951717.jpg",
     "static/media/mural.jpg": "/static/media/mural.8596fc634e964c356808.jpg",
+    "static/media/1.jpg": "/static/media/1.800536eb83ea7d5a05ee.jpg",
     "static/media/carucature.jpg": "/static/media/carucature.d83c66823a9b5cbb508d.jpg",
     "static/media/character-2.jpg": "/static/media/character-2.de4abee6a134012d6541.jpg",
     "static/media/carucature-1.jpg": "/static/media/carucature-1.087f838b33666c182cf2.jpg",
@@ -44,11 +45,11 @@
     "static/media/service2-2.jpg": "/static/media/service2-2.575384e0769be184cbcd.jpg",
     "static/media/service3-2.jpg": "/static/media/service3-2.575384e0769be184cbcd.jpg",
     "index.html": "/index.html",
-    "main.29fa9ccc.css.map": "/static/css/main.29fa9ccc.css.map",
-    "main.0b3fc7f1.js.map": "/static/js/main.0b3fc7f1.js.map"
+    "main.a271d5b3.css.map": "/static/css/main.a271d5b3.css.map",
+    "main.40f0d9a6.js.map": "/static/js/main.40f0d9a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.29fa9ccc.css",
-    "static/js/main.0b3fc7f1.js"
+    "static/css/main.a271d5b3.css",
+    "static/js/main.40f0d9a6.js"
   ]
 }
